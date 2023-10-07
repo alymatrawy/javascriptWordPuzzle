@@ -1,11 +1,6 @@
-COMP 2406 Assignment 2
-
-March 1st, 2023
-
-
 Aly Matrawy
 
-101174487
+
 
 Version:
 
@@ -16,7 +11,7 @@ Version:
 
 Launch:
 
--ensure you are in the correct directory (.../2406 A2 -ALL FILES ZIPPED Rev 1)
+-ensure you are in the correct directory (.../word puzzle)
 -run the command --> node server.js
 
 
